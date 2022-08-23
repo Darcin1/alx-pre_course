@@ -1,1 +1,1 @@
-echo "content" > "name of the file"
+The command line used to get updates from github is "git pull"
